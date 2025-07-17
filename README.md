@@ -265,10 +265,6 @@ npm install
 cp .env.example .env
 # Edit .env with your configuration
 
-# Set up database
-npm run db:migrate
-npm run db:seed
-
 # Start development server
 npm run dev
 ```
